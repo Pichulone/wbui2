@@ -21,20 +21,20 @@
           "imageurl": "",
           "content": [
             {
-              "title": "INFO BASICA DEL SERVER",
+              "title": "=== INFO BASICA DEL SERVER ===",
               "text": " -FULL PVE\n -CROSSPLAY (PC-XBOX-PS)\n -EXP = x5\n -FARMEO = x6\n -DINO GROW = x5\n -INCUBACION = x8\n -DINO APAREAMIENTO = x3\n -EXP = x5\n -VOLADORES EN CUEVA = ACTIVADO\n\n\n"
             },
             {
-              "title": "<TextStyle.Red>KITS</>",
+              "title": "<TextStyle.Red>=== KITS ===</>",
               "text": "Para los de CONSOLA (XBOX - PS)\n Reclamar sus  KITS GRATIS dos de cada uno, escribiendo en el chat los siguientes comando:\n\n\n -/kit inicio\n -/kit farmeo\n -/kit ropa\n -/kit teleport"
             },
             {
-              "title": "<TextStyle.Yellow>DONACION</>",
+              "title": "<TextStyle.Yellow>=== DONACION ===</>",
               "text": "Ayudanos a mantener el servidor y sus gastos.\nEn el discord encontraran distintos metodo de donacion\n y la info de los VIPS, DINOS, PUNTOS y MAS!\n\n\nABRIR TICKET EN DISCORD PARA ADQUIRIRLOS\n\n\nLINK AQUI ABAJO"
             },
             {
-              "title": "<TextStyle.Green>COMANDOS</>",
-              "text": "Escribir los comandos en el chat mirando al dino\n/tokens : cantidad de tokens\n\n\n/commands : precios de comandos\n/cg : Cambia de genero\n/grow : hace crecer al DINO\n/hatch : incuba huevos al 100%\n/mate : Reinicia apareo\n/dinorespec : reinicia puntos a dinos\n/imprint : impronta a dino 100%(poner en cryo y sacar)"
+              "title": "<TextStyle.Green>=== COMANDOS ===</>",
+              "text": "Escribir los comandos en el chat mirando al dino\n/tokens : cantidad de tokens\n/commands : precios de comandos\n/cg : Cambia de genero\n/grow : hace crecer al DINO\n/hatch : incuba huevos al 100%\n/mate : Reinicia apareo\n/dinorespec : reinicia puntos a dinos\n/imprint : impronta a dino 100%(poner en cryo y sacar)"
             }
           ]
         }
