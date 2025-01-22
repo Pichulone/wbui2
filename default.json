@@ -16,13 +16,13 @@
       },
       "tabs": [
         {
-          "layout": 1,
+          "layout": 4,
           "buttontext": "INFO GENERAL",
           "imageurl": "",
           "content": [
             {
               "title": "Bienvenido - Welcome",
-              "text": "Gracias por ser parte de Ark Dominio ASA\n\n\nDia a Dia estamos agregando nuevo contenido\nAyudanos a mejorar, dando sugerencia y reportando bugs en discord\n\n\nINFO BASICA DEL SERVER:\n\n\n -FULL PVE\n -CROSSPLAY (PC-XBOX-PS)\n -EXP = x5\n -FARMEO = x6\n -DINO GROW = x5\n -INCUBACION = x8\n -DINO APAREAMIENTO = x3\n -EXP = x5\n -VOLADORES EN CUEVA = ACTIVADO\n\n\n"
+              "text": "INFO BASICA DEL SERVER:\n -FULL PVE\n -CROSSPLAY (PC-XBOX-PS)\n -EXP = x5\n -FARMEO = x6\n -DINO GROW = x5\n -INCUBACION = x8\n -DINO APAREAMIENTO = x3\n -EXP = x5\n -VOLADORES EN CUEVA = ACTIVADO\n\n\n"
             },
             {
               "title": "KITS PARA NUEVOS ",
