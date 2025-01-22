@@ -22,7 +22,7 @@
           "content": [
             {
               "title": "INFO BASICA DEL SERVER",
-              "text": " -FULL PVE\n -CROSSPLAY (PC-XBOX-PS)\n -EXP = x5\n -FARMEO = x6\n -MADURACION DINOS= x5\n -INCUBACION = x8\n -APAREAMIENTO DINOS= x3\n -VOLADORES EN CUEVA = ACTIVADO\n\n\n"
+              "text": " -FULL PVE\n -CROSSPLAY (PC-XBOX-PS)\n -EXP = x5\n -FARMEO = x6\n -MADURACION = x5\n -INCUBACION = x8\n -DINOS= x3\n -VOLADORES EN CUEVA = ACTIVADO\n\n\n"
             },
             {
               "title": "<TextStyle.Red>KITS</>",
