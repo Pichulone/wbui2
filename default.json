@@ -21,19 +21,19 @@
           "imageurl": "",
           "content": [
             {
-              "title": "Bienvenido - Welcome",
-              "text": "INFO BASICA DEL SERVER:\n -FULL PVE\n -CROSSPLAY (PC-XBOX-PS)\n -EXP = x5\n -FARMEO = x6\n -DINO GROW = x5\n -INCUBACION = x8\n -DINO APAREAMIENTO = x3\n -EXP = x5\n -VOLADORES EN CUEVA = ACTIVADO\n\n\n"
+              "title": "INFO BASICA DEL SERVER",
+              "text": " -FULL PVE\n -CROSSPLAY (PC-XBOX-PS)\n -EXP = x5\n -FARMEO = x6\n -DINO GROW = x5\n -INCUBACION = x8\n -DINO APAREAMIENTO = x3\n -EXP = x5\n -VOLADORES EN CUEVA = ACTIVADO\n\n\n"
             },
             {
-              "title": "KITS PARA NUEVOS ",
+              "title": "KITS",
               "text": "Para los de CONSOLA (XBOX - PS)\n Reclamar sus  KITS GRATIS dos de cada uno, escribiendo en el chat los siguientes comando:\n\n\n -/kit inicio\n -/kit farmeo\n -/kit ropa\n -/kit teleport"
             },
             {
-              "title": "VIPS - DONACION",
+              "title": "DONACION",
               "text": "Ayudanos a mantener el servidor y sus gastos.\nAcambio les daremos un poco de amor,\nEn el discord encontraran distintos metodo de donacion y los pack que recibiran a cambio tenemos pack VIPS, DINOS, PUNTOS y MAS!\n\n\n -VIP YUTI\n -VIP REX\n -VIP REAPER\n -PUNTOS \n TOKENS\n\n\n ABRIR TICKET EN DISCORD PARA ADQUIRIRLOS"
             },
             {
-              "title": "COMANDOS - TOKENS",
+              "title": "COMANDOS",
               "text": "Escribir estos comandos en el chat mirando al dino para ejecutar las funciones\n\n\n/tokens : cantidad de tokens disponibles\n/commands : LISTA DE COMANDOS y SUS PRECIOS\n/cg : CAMBIA DE GENERO A TU DINO\n/grow : HACE CRECER A TU DINO A ADULTO\n/hatch : INCUBA LOS HUEVOS FETILIZADOS INSTANTANEO\n/mate : HACE QUE TU DINOS APAREEN NUEVAMENTE\n/dinorespec : REINICIA LOS PUNTOS DE TU DINO\n/imprint : IMPRONTA AL DINO 100%(poner en cryo y sacar)  "
             }
           ]
