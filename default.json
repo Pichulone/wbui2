@@ -34,7 +34,7 @@
             },
             {
               "title": "COMANDOS",
-              "text": "Escribir los comandos en el chat mirando al dino para ejecutar las funciones\n/tokens : cantidad de tokens\n/commands : LISTA DE COMANDOS y SUS PRECIOS\n/cg : CAMBIA DE GENERO A TU DINO\n/grow : HACE CRECER A TU DINO\n/hatch : INCUBA LOS HUEVOS 100%\n/mate : APAREAMIENTO INSTA\n/dinorespec : REINICIA LOS PUNTOS DE DINOS\n/imprint : IMPRONTA AL DINO 100%(poner en cryo y sacar)"
+              "text": "Escribir los comandos en el chat mirando al dino para ejecutar las funciones\n/tokens : cantidad de tokens"
             }
           ]
         }
