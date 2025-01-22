@@ -27,6 +27,14 @@
             {
               "title": "KITS",
               "text": "Para los de CONSOLA (XBOX - PS)\n Reclamar sus  KITS GRATIS dos de cada uno, escribiendo en el chat los siguientes comando:\n\n\n -/kit inicio\n -/kit farmeo\n -/kit ropa\n -/kit teleport"
+            },
+            {
+              "title": "DONACION",
+              "text": "Ayudanos a mantener el servidor y sus gastos.\nEn el discord encontraran distintos metodo de donacion y la info de los VIPS, DINOS, PUNTOS y MAS!\nABRIR TICKET EN DISCORD PARA ADQUIRIRLOS"
+            },
+            {
+              "title": "COMANDOS",
+              "text": "Escribir los comandos en el chat mirando al dino para ejecutar las funciones\n/tokens : cantidad de tokens\n/commands : LISTA DE COMANDOS y SUS PRECIOS\n/cg : CAMBIA DE GENERO A TU DINO\n/grow : HACE CRECER A TU DINO\n/hatch : INCUBA LOS HUEVOS 100%\n/mate : APAREAMIENTO INSTA\n/dinorespec : REINICIA LOS PUNTOS DE DINOS\n/imprint : IMPRONTA AL DINO 100%(poner en cryo y sacar)"
             }
           ]
         }
