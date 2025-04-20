@@ -34,7 +34,7 @@
             },
             {
               "title": "<TextStyle.Green>COMANDOS</>",
-              "text": "Escribir los comandos en el chat mirando al dino\n/tokens : cantidad de tokens\n/commands : precios de comandos\n/cg : Cambia de genero al DINO\n/crece : hace crecer al DINO\n/hatch : incuba huevos al 99%\n/mate : Reinicia la Espera de apareo\n/imprint : impronta a dino 100%(poner en cryo y sacar)\n/dinorespec : reinicia puntos LEVELS de dinos"
+              "text": "Escribir los comandos en el chat mirando al dino\n/tokens : cantidad de tokens\n/commands : precios de comandos\n/cg : Cambia de genero al DINO\n/crece : hace crecer al DINO\n/hatch : incuba huevos al 99%\n/mate : Reinicia la Espera de apareo\n/imprint : impronta a dino 100%(poner en cryo y sacar)\n/pod : Guarda en CRYO al dino que mires"
             }
           ]
         }
